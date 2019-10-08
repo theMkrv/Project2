@@ -71,5 +71,5 @@ elif start == "да":
                     print('---Ты не справился с лесником. Надо было больше каши есть!')
                     print('THE END')
                 else:
-                    print('--Ты лох.')
+                    print('---Ты лох.')
                     print('THE END')
